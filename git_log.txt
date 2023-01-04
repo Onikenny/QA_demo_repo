@@ -1,4 +1,24 @@
-commit ea37e7fabc5418683bbc879a01da065b72928550 (HEAD -> cntr1, origin/cntr1, origin/HEAD)
+$ git log
+commit f89bf392109e3e8f61e97d69956fe47880a61c42 (HEAD -> main, origin/main)
+Author: Ruth Oni <onietlorraine@gmail.com>
+Date:   Wed Jan 4 15:14:49 2023 +0000
+
+    created the log file
+
+commit bb7d2ecf2685dbc401b047a773e8b7f6afd133be
+Merge: 87c4feb ea37e7f
+Author: Ruth Oni <onietlorraine@gmail.com>
+Date:   Wed Jan 4 14:23:53 2023 +0000
+
+    Resolved all conflicts
+
+commit 87c4feb0f47414019811c5eb23eae2c571e0f534
+Author: Ruth Oni <onietlorraine@gmail.com>
+Date:   Wed Jan 4 14:19:07 2023 +0000
+
+    added conflict
+
+commit ea37e7fabc5418683bbc879a01da065b72928550 (origin/cntr1, origin/HEAD, cntr1)
 Author: Ruth Oni <onietlorraine@gmail.com>
 Date:   Wed Jan 4 14:13:20 2023 +0000
 
