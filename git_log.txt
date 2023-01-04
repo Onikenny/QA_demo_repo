@@ -1,0 +1,17 @@
+commit ea37e7fabc5418683bbc879a01da065b72928550 (HEAD -> cntr1, origin/cntr1, origin/HEAD)
+Author: Ruth Oni <onietlorraine@gmail.com>
+Date:   Wed Jan 4 14:13:20 2023 +0000
+
+    my second commit
+
+commit d47ceab30baaef91fe381452f351807a27e0bb6c
+Author: Ruth Oni <onietlorraine@gmail.com>
+Date:   Wed Jan 4 14:05:07 2023 +0000
+
+    made first change
+
+commit 9dcd8590f29bd6e9d502a5e9a75de20d22492fa4
+Author: Ruth Oni <onietlorraine@gmail.com>
+Date:   Wed Jan 4 13:58:20 2023 +0000
+
+    added a file
